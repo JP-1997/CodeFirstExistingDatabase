@@ -1,0 +1,14 @@
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe.config
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.pdb
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\bin\Debug\EntityFramework.dll
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.dll
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\bin\Debug\EntityFramework.xml
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.xml
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csprojAssemblyReference.cache
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.CoreCompileInputs.cache
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.CopyComplete
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.exe
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.pdb
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.InitialModel.resources
+Z:\NET_Workspace\EntityFramework\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.GenerateResource.cache
